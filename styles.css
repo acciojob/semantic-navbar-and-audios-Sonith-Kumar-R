@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table,td,th {
+	border:1px solid;
+	border-collapse:collapse;
+}
+li{
+	text-decoration:none;
+	list-style-type:none;
+}
